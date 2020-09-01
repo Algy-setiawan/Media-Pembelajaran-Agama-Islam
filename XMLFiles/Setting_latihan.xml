@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<bab id="1"><aktif>true</aktif><status>Enable</status></bab>
+<bab id="2"><aktif>true</aktif><status>Enable</status></bab>
+<bab id="3"><aktif>true</aktif><status>Enable</status></bab>
+<bab id="4"><aktif>true</aktif><status>Enable</status></bab>
+<bab id="5"><aktif>true</aktif><status>Enable</status></bab>
+<bab id="6"><aktif>true</aktif><status>Enable</status></bab>
+<bab id="7"><aktif>false</aktif><status>Disable</status></bab>
+<bab id="8"><aktif>false</aktif><status>Disable</status></bab>
+<bab id="9"><aktif>false</aktif><status>Disable</status></bab>
+<bab id="10"><aktif>false</aktif><status>Disable</status></bab>
+</data>
